@@ -39,8 +39,8 @@ Graver 重新抽象封装 CoreText、CoreGraphic 等系统基础能力，通过�
 Graver 一改界面编程思路，与传统的通过控件“拼接”、“添加”，视图排列组合方式构建界面不同，它提供了十分灵活、便捷的接口让我们以“视觉所见”的方式构建界面。
 
 ## 了解更多
-1. [框架概述](FrameworkOverview.md)
-2. [为 Graver 贡献代码](CONTRIBUTING.md)
+1. [框架概述](./docs/FrameworkOverview.md)
+2. [为 Graver 贡献代码](./docs/CONTRIBUTING.md)
 
 ## 系统需求
 - iOS 9.0 +
@@ -56,7 +56,7 @@ CocoaPods 在 Podfile 中添加 `pod 'Graver'` ，然后运行 `pod install` 即
 Graver 使用 [Apache Public License 2.0 许可证](./LICENSE)。
 
 ## 更新日志
-[更新日志](CHANGELOG.md)
+[更新日志](./docs/CHANGELOG.md)
 
 ## 相关文章
 
