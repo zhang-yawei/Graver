@@ -41,7 +41,6 @@
 static BOOL _globalAsyncDrawDisabled = NO;
 + (void)initialize
 {
-    [super initialize];
     _globalAsyncDrawDisabled = NO;
 }
 
