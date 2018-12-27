@@ -1,7 +1,7 @@
 
 ![banner](./images/banner.png)
 
-[![License](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://raw.githubusercontent.com/meituan/Graver/master/LICENSE)
+[![Build Status](https://travis-ci.org/Meituan-Dianping/Graver.svg?branch=master)](https://travis-ci.org/Meituan-Dianping/Graver)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://raw.githubusercontent.com/meituan/Graver/master/LICENSE)
 
 ## Graver 是什么
