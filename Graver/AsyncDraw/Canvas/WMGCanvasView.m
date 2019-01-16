@@ -125,6 +125,8 @@ NSString * const WMGCanvasViewBackgroundImageKey   = @"waimai-graver-canvas-back
     return userInfo;
 }
 
+
+//  重绘
 - (BOOL)drawInRect:(CGRect)rect withContext:(CGContextRef)context asynchronously:(BOOL)asynchronously userInfo:(NSDictionary *)userInfo
 {
     [super drawInRect:rect withContext:context asynchronously:asynchronously userInfo:userInfo];

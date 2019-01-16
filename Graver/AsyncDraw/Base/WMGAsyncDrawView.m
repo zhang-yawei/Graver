@@ -74,6 +74,9 @@ static BOOL _globalAsyncDrawDisabled = NO;
         self.dispatchPriority = DISPATCH_QUEUE_PRIORITY_DEFAULT;
         
         // make overrides work
+        
+        
+        // 这是什么J8写法......
         self.drawingPolicy = self.drawingPolicy;
         self.fadeDuration = self.fadeDuration;
         self.contentsChangedAfterLastAsyncDrawing = self.contentsChangedAfterLastAsyncDrawing;

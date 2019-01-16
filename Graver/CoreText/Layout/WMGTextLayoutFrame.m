@@ -125,6 +125,7 @@ static NSString *WMGEllipsisCharacter = @"\u2026";
         return (__bridge id)lineRef;
     }
     
+    
     CGFloat truncateWidth = textLayout.size.width;
     
     const CGFloat delegateMaxWidth = [self textLayout:textLayout maximumWidthForTruncatedLine:lineRef atIndex:index];
